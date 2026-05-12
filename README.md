@@ -1,6 +1,6 @@
-#🩺 AI Diabetes Prediction System
+# 🩺 AI Diabetes Prediction System
 
-AI-powered Diabetes Prediction and Healthcare Analytics Dashboard built using Machine Learning, Streamlit, Plotly, and Python.
+AI-powered Healthcare Analytics Dashboard using Machine Learning, Streamlit, Plotly, and Python.
 
 # 📊 Model Performance
 
