@@ -37,7 +37,7 @@ weighted avg       0.88      0.88      0.88
 - F1-Score
 
 The model achieved 88% accuracy in predicting diabetes risk using patient health parameters and machine learning techniques.
-## 📌 Project Overview
+# 📌 Project Overview
 
 The AI Diabetes Prediction System is a modern healthcare analytics web application that predicts diabetes risk using Machine Learning algorithms and provides advanced health insights through an interactive dashboard.
 
