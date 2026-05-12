@@ -211,7 +211,7 @@ AI-Diabetes-Prediction-System/
 
 Step 1 — Clone Repository
 
-git clone https://github.com/your-username/AI-Diabetes-Prediction-System.git
+git clone https://github.com/Usha-2025/AI-Diabetes-Prediction-System.git
 
 Step 2 — Open Project Folder
 
