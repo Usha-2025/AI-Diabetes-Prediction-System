@@ -63,9 +63,9 @@ Smart Health Assistant Chatbot
 
 The system combines Machine Learning, Data Analytics, and Web Application Development to create a professional healthcare solution.
 
-## 🚀 Features
+# 🚀 Features
 
-# ✅ Diabetes Risk Prediction
+## ✅ Diabetes Risk Prediction
 
 The system predicts whether a user has:
 
@@ -77,7 +77,7 @@ High Risk
 
 based on medical input data using a trained Machine Learning model.
 
-# ✅ Interactive Healthcare Dashboard
+## ✅ Interactive Healthcare Dashboard
 
 The dashboard provides:
 
@@ -97,7 +97,7 @@ BMI Distribution Analytics
 
 Recent Predictions Table
 
-# ✅ AI Health Score
+## ✅ AI Health Score
 
 The application generates an AI-based Health Score out of 100 using prediction analytics.
 
@@ -127,7 +127,7 @@ Sugar reduction advice
 
 Lifestyle improvement tips
 
-# ✅ Modern Data Visualization
+## ✅ Modern Data Visualization
 
 The application includes professional healthcare analytics charts using Plotly:
 
@@ -139,7 +139,7 @@ BMI Histogram
 
 Risk Trend Analysis Graph
 
-# ✅ PDF Report Generation
+## ✅ PDF Report Generation
 
 Users can download a professional healthcare report containing:
 
@@ -155,11 +155,11 @@ Personalized Insights
 
 Health Recommendations
 
-# ✅ Prediction History
+## ✅ Prediction History
 
 The system stores previous prediction records and displays them in a structured table format.
 
-# ✅ Smart Health Assistant Chatbot
+## ✅ Smart Health Assistant Chatbot
 
 The application includes a healthcare chatbot that answers questions related to:
 
@@ -179,7 +179,7 @@ Stress Management
 
 Sleep
 
-## 🛠 Technologies Used
+# 🛠 Technologies Used
 
 Programming Language - Python
 
@@ -193,7 +193,7 @@ Data Visualization - Plotly
 
 PDF Report Generation - ReportLab
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 AI-Diabetes-Prediction-System/
 │
@@ -218,7 +218,7 @@ AI-Diabetes-Prediction-System/
     ├── dashboard.png
     └── prediction.png
 
-## 📸 Screenshots
+# 📸 Screenshots
 
 🏠 Dashboard
 
@@ -226,7 +226,7 @@ AI-Diabetes-Prediction-System/
 
 🤖 Chatbot 
 
-## ⚙ Installation Guide
+# ⚙ Installation Guide
 
 Step 1 — Clone Repository
 
@@ -244,7 +244,7 @@ Step 4 — Run Application
 
 streamlit run app.py
 
-## 📊 Machine Learning Workflow
+# 📊 Machine Learning Workflow
 
 The system follows the following Machine Learning workflow:
 
@@ -262,7 +262,7 @@ Risk Analysis
 
 Visualization and Reporting
 
-## 🧠 Input Parameters Used
+# 🧠 Input Parameters Used
 
 The prediction system uses the following medical parameters:
 
@@ -277,7 +277,7 @@ The prediction system uses the following medical parameters:
 | DiabetesPedigreeFunction | Family diabetes history score |
 | Age | Patient age |
 
-## 🎯 Project Objectives
+# 🎯 Project Objectives
 
 The main objectives of this project are:
 
@@ -291,7 +291,7 @@ Generate professional healthcare reports
 
 Build an intelligent healthcare support application
 
-## 🔮 Future Enhancements
+# 🔮 Future Enhancements
 
 Future improvements that can be added:
 
@@ -311,7 +311,7 @@ Mobile Application Version
 
 Real-time Health Monitoring
 
-## 🌐 Deployment Platforms
+# 🌐 Deployment Platforms
 
 This project can be deployed on:
 
@@ -325,7 +325,7 @@ Heroku
 
 AWS
 
-## 📦 Requirements
+# 📦 Requirements
 
 Main libraries used:
 
@@ -338,11 +338,11 @@ joblib
 reportlab
 matplotlib
 
-## 👩‍💻 Developed By
+# 👩‍💻 Developed By
 
 Usha Sree Mundra
 
-## ⭐ Conclusion
+# ⭐ Conclusion
 
 The AI Diabetes Prediction System is a professional healthcare analytics platform that combines Machine Learning, Data Visualization, and Web Technologies to provide intelligent diabetes risk analysis.
 
