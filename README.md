@@ -205,11 +205,7 @@ AI-Diabetes-Prediction-System/
 
 🏠 Dashboard
 
-
-
 🩺 Prediction Page
-
-
 
 ⚙ Installation Guide
 
