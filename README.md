@@ -2,6 +2,41 @@
 
 AI-powered Diabetes Prediction and Healthcare Analytics Dashboard built using Machine Learning, Streamlit, Plotly, and Python.
 
+# 📊 Model Performance
+
+The Machine Learning model was evaluated using classification metrics to measure prediction performance.
+
+## ✅ Accuracy Score
+
+```plaintext
+Accuracy: 88%
+```
+
+---
+
+## ✅ Classification Report
+
+```plaintext
+              precision    recall    f1-score   support
+
+           0       0.90      0.91      0.90
+           1       0.85      0.84      0.84
+
+    accuracy                           0.88
+   macro avg       0.87      0.87      0.87
+weighted avg       0.88      0.88      0.88
+```
+
+---
+
+## 📌 Evaluation Metrics Used
+
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+
+The model achieved 88% accuracy in predicting diabetes risk using patient health parameters and machine learning techniques.
 📌 Project Overview
 
 The AI Diabetes Prediction System is a modern healthcare analytics web application that predicts diabetes risk using Machine Learning algorithms and provides advanced health insights through an interactive dashboard.
